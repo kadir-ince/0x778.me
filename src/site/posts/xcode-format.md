@@ -1,6 +1,6 @@
 ---
 title: Xcode Code Formatting
-date: 2018-03-21
+date: 2020-07-07
 ---
 
 Xcode üzerinde default olarak gelen re-indent olarak geçen kod formatlama tekniği verimli olarak çalışmamaktadır (Yalnızca kodları sola yaslar ve aradaki boşluklara dokunmaz). Örnek olarak 👇🏻
