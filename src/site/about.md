@@ -32,3 +32,5 @@ Good question. Here's what it will do...
 3. That's it really.
 
 Find this repo on <a href="{{ pkg.repository.url }}">GitHub</a>.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)

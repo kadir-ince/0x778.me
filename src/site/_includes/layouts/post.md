@@ -5,11 +5,10 @@ templateEngineOverride: njk, md
 ---
 
 <p class="date">
-  <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
+  Kadir Ince <br><time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>
 <main>
   {{ content | safe }}
   <div class="footnote">
-    
   </div>
 </main>
