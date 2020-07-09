@@ -179,6 +179,16 @@ pre {
     padding-right: 0;
   }
 }
+img {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  -webkit-box-shadow: 26px 27px 23px -8px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 26px 27px 23px -8px rgba(0, 0, 0, 1);
+  box-shadow: 26px 27px 23px -8px rgba(0, 0, 0, 1);
+}
 
 footer {
   margin-top: 6em;
