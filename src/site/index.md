@@ -12,7 +12,7 @@ This is my blog page. My name is Kadir Ince. <br> 0x788 is a hexadecimal number.
 
 <br>
 <ul class="listing">
-{%- for page in collections.post -%}
+{%- for page in collections.post -%} 
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
