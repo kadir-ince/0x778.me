@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 <br> <b>
 
-My name is Kadir Ince. <br> 0x788 is a hexadecimal number. Its decimal base equivalent is [1912](https://en.wikipedia.org/wiki/Alan_Turing).
+My name is Kadir Ince. <br> 0x788 is a hexadecimal number. Its decimal base equivalent is <a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank">1912</a>.
 
 ## Last Posts
 
